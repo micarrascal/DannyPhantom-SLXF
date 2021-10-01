@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "echo hello word"
+run = "node index.js"
